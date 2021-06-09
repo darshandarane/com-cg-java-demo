@@ -35,6 +35,6 @@ public class Lab2Exe2 {
 			arr1[i] = Sc.next();
 		}
 		sortStrings(arr1, size);
-		System.out.println("HEllo Gaurav");
+		System.out.println("HEllo User");
 	}
 }
