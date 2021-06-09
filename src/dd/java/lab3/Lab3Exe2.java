@@ -14,6 +14,6 @@ public class Lab3Exe2 {
 		for (int i = length - 1; i >= 0; i--)
 			rev = rev + initial.charAt(i);
 		System.out.println("Reversed string: " + rev);
-		System.out.println("Hello User ");
+		System.out.println("Hello World ");
 	}
 }
