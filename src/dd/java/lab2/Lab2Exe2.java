@@ -1,4 +1,4 @@
-package dd.java.lab2;
+ package dd.java.lab2;
 
 import java.util.Scanner;
 

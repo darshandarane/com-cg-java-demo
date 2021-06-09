@@ -34,7 +34,7 @@ public class Lab1Exe5 {
 		System.out.print("Enter range : ");
 		int range = sc.nextInt();
 		int result = calculateSum(range);
-		System.out.println("Sum  of natural Number dividedby 3 or 5 = " + result);
+		System.out.println("Sum  of natural Number divisible by 3 or 5 = " + result);
 		sc.close();
 	}
 }
