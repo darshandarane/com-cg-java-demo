@@ -14,6 +14,7 @@ public class MethodClass {
 	 public static void main(String[] args) {
 		System.out.println("Start");
 		additionMethod();
+		System.out.println("haggd");
 		
 	}
 
