@@ -83,8 +83,8 @@ public class EmailOperation {
 	public static void main(String args[] ) throws Exception {
 		/* Enter your code here. Read input from STDIN. Print output to STDOUT */
     // You can Implement your main() to check your Program.
-	Header h = new Header("gaurav0229@gmail.com", "_gaurav@gmail.com");
-	Email e = new Email(h,"Hi Gaurav", "Thanks & Regards");
+	Header h = new Header("aplpha2delta1@gmail.com", "codered@gmail.com");
+	Email e = new Email(h,"Hi Alpha team", "Thanks & Regards");
 	EmailOperations eo = new EmailOperations();
 	System.out.println(eo.emailVerify(e));
 	System.out.println(eo.bodyEncryption(e));
